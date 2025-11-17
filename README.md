@@ -9,4 +9,5 @@ Cyber Security leader
 •	Effective bridge between customers and delivery teams, including during major incidents
 •	Enable SecOps and GRC—driving operations while ensuring compliance
 •	Direct remediation and communicate risk clearly to stakeholders at every level
+
 <img width="1645" height="780" alt="image" src="https://github.com/user-attachments/assets/c36fc8a9-7a83-4edb-8603-edb45d586f29" />
