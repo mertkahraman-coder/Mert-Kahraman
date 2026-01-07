@@ -12,4 +12,5 @@
 
 •	Designed an AI-enabled GRC tool, alongside a SOAR capability focused on incident prioritisation, response logic, and decision support.
 
-<img width="1645" height="780" alt="image" src="https://github.com/user-attachments/assets/c36fc8a9-7a83-4edb-8603-edb45d586f29" />
+<img width="2326" height="666" alt="image" src="https://github.com/user-attachments/assets/c35eb9f4-e512-4531-a25c-000d69bab8c3" />
+
