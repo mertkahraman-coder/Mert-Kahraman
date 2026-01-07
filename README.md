@@ -1,4 +1,4 @@
-# Mert-Kahraman - Cyber Security leader 
+# Mert-Kahraman - Cyber Security Professional 
 
 •	Deep background in IT infrastructure and cyber operations
 
