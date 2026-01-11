@@ -5,7 +5,7 @@
 •	Automation-first mindset across cyber and information security to streamline and scale controls
 
 •	Vibe-coder applying AI to anticipate threats and opportunities, developing ISMS and SOAR with AI
-
+ 
 •	Delivered complex cyber projects for world-renowned organisations     
 
 •	Applied AI- and software-driven security approaches to strengthen risk visibility, control effectiveness, and security decision-making
